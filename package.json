@@ -1,0 +1,24 @@
+{
+  "name": "verooptio",
+  "version": "1.0.0",
+  "description": "Specialized heuristic lexer for JS to identify complex literals",
+  "main": "lib/lit.js",
+  "scripts": {
+    "test": "node tests/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CliftonKovacek/verooptio.git"
+  },
+  "keywords": [
+    "autem",
+    "dolor",
+    "parser"
+  ],
+  "devDependencies": {
+    "diff": ">= 1.0.5"
+  },
+  "homepage": "https://github.com/CliftonKovacek/verooptio.git",
+  "author": "HadleyConroy",
+  "license": "MIT"
+}
